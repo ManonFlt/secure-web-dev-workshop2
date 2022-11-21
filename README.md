@@ -34,7 +34,7 @@
    > ```
 5. In the file `import-data.js`, create Mongoose model `Locations`
    1. Define a mongoose schema that accepts the following entity (look at the [documentation](https://mongoosejs.com/docs/guide.html#definition)):
-      ```shell
+      ```JSON
       {
         "filmType": "Long m\u00e9trage",
         "filmProducerName": "MANDARIN PRODUCTION",
